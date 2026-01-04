@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(rm:*)",
+      "Bash(mkdir:*)",
+      "Bash(npm run dev:*)",
+      "Bash(npm cache clean:*)",
+      "Bash(open http://localhost:5173/)",
+      "Bash(lsof:*)",
+      "Bash(npx tsc:*)",
+      "Bash(curl:*)",
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)",
+      "Bash(ipconfig getifaddr:*)"
+    ]
+  }
+}
